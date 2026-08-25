@@ -21,7 +21,7 @@ _レビューできました :sparkles:_
 
 1. **Add a suggestion** ボタンをクリックすると、元の行が編集できる形で挿入されます。
 
-   <img width="300" alt="Add a suggestion ボタン" src="../images/add-a-suggestion-button.png" />
+   <img width="300" alt="Add a suggestion ボタン" src="https://github.com/yoosaki0723/skills-review-pull-requests/blob/main/.github/images/add-a-suggestion-button.png?raw=true" />
 
 1. 提案の内容を次のとおりに書き換え、**Comment** ボタンをクリックします。
 

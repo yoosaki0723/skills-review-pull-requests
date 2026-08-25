@@ -51,7 +51,7 @@ _自分を担当者にできました！ :tada:_
    Looks good to me. I think this is more intuitive. Nice work!
    ```
 
-   <img width="300" alt="Submit review ボタン" src="../images/submit-review-button.png" />
+   <img width="300" alt="Submit review ボタン" src="https://github.com/yoosaki0723/skills-review-pull-requests/blob/main/.github/images/submit-review-button.png?raw=true" />
 
    > 🪧 **注:** 自分の pull request に対しては、**Approve** と **Request changes** は選べません。
 
